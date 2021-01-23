@@ -1,7 +1,7 @@
 title: "vegan pasta"
 
 ingredients:
-- Kosher salt: pinch
+- Kosher salt: 0.355625 g
 - nutritional yeast: ⅓ cup 
 - cashew butter: ¼ cup
 - white miso paste: 2 tablespoons
